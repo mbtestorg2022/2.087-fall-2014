@@ -31,11 +31,48 @@ Grading
 
 Students can calculate their grade [with this MATLAB script. (M)]({{< baseurl >}}/resources/gradecalculatormatlabscript)
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework (5 assignments, 6% each) | 30% |
-| Quizzes (2 quizzes, 20% each) | 40% |
-| Final Exam | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework (5 assignments, 6% each)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes (2 quizzes, 20% each)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Late Policy
 -----------
