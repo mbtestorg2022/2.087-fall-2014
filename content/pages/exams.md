@@ -70,7 +70,7 @@ Quiz And Exam Resources
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Practice Final Exam (PDF)]({{< baseurl >}}/resources/mit2_087f14_pracfinaexamv4)
+[Practice Final Exam (PDF)]({{< baseurl >}}/resources/mit2_087f14_pracfinaexamv4)
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -34,13 +34,13 @@ HOMEWORK ASSIGNMENTS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Homework 3 (PDF)]({{< baseurl >}}/resources/mit2_087f14_homework3)
+[Homework 3 (PDF)]({{< baseurl >}}/resources/mit2_087f14_homework3)
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Homework 4 (PDF)]({{< baseurl >}}/resources/mit2_087f14_homework4)
+[Homework 4 (PDF)]({{< baseurl >}}/resources/mit2_087f14_homework4)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,7 +48,7 @@ HOMEWORK ASSIGNMENTS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Homework 5 (PDF)]({{< baseurl >}}/resources/mit2_087f14_homework5)
+[Homework 5 (PDF)]({{< baseurl >}}/resources/mit2_087f14_homework5)
 
 *   [MATLAB Script for Problem 4 (M)]({{< baseurl >}}/resources/hw5_prob4v4)
 *   [MATLAB Script for Problem 5B (M)]({{< baseurl >}}/resources/pendulum2)
